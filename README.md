@@ -7,8 +7,6 @@
 # Executive Summary
 The Six Muskatweeters were interested in exploring whether Elon Musk’s prolific Twitter presence had meaningful impacts on the stock price of his electric car company and brainchild, Tesla. To do this, we scraped Mr. Musk’s Twitter profile for Tesla-related tweets and Yahoo Finance for daily Tesla stock data. We combined our data in Jupyter notebooks and loaded it into PostgreSQL for further analysis.
 
-![Image](Musk_Twitter_backgnd.jpg)
-
 # Extract
 The Six Muskatweeters extracted daily Tesla stock (NASDAQ: TSLA) data from Yahoo Finance and combined that data with tweets from Elon Musk’s Twitter profile (@elonmusk). Yahoo Finance and Twitter required custom BeautifulSoup/Splinter web scrapers. After extracting the stock and social media data for the past 5 years (7-28-2015 – 7-28-2020), we were able to begin our data transformation.
 
