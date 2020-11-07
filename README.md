@@ -1,5 +1,5 @@
 # Important Links
-Link to original[Project Repository.](https://github.com/sarahparzyck/ETL_Project)
+Link to original [Project Repository.](https://github.com/sarahparzyck/ETL_Project)
 
 Link to [Deployed Site.](https://sarahparzyck.github.io/ETL_Project/)
 
